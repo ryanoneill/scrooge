@@ -1,4 +1,4 @@
-# Scrooge
+# Scrooge 
 
 [![Build status](https://travis-ci.org/twitter/scrooge.svg?branch=develop)](https://travis-ci.org/twitter/scrooge)
 [![Codecov branch](https://img.shields.io/codecov/c/github/twitter/scrooge/develop.svg)](http://codecov.io/github/twitter/scrooge?branch=develop)
